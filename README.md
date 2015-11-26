@@ -1,7 +1,7 @@
 Litecoin - a lite version of Bitcoin optimized for CPU mining using scrypt as a proof of work scheme.
  - 1 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~111 million total coins
+ - ~1111 million total coins
 
 The rest is the same as bitcoin.
  - 50 coins per block
